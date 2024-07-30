@@ -1,0 +1,7 @@
+main
+	__CC2DW
+		____DoICP
+	automaticMode
+		manualAutoCheck
+			manualMode
+	manualMode
